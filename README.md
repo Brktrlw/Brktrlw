@@ -21,6 +21,7 @@
 <a href="https://stackoverflow.com/users/15423388" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15423388" height="30" width="40" /></a>
 <a href="https://instagram.com/brktrll.z" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="brktrll.z" height="30" width="40" /></a>
 </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=brktrlw)](https://github.com/brktrlw/github-profile-trophy)
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=brktrlw&langs_count=5&theme=tokyonight)]()
 
