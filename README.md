@@ -14,7 +14,7 @@
 - 📄 Know about my experiences [https://github.com/Brktrlw](https://github.com/Brktrlw)
 
 - 💬 Ask me about **Python,flask,Django,HTML,CSS,JAVA,ASP.NET MVC,C#,Cyber Security,Kali Linux,Pentesting etc.**
-
+![](https://komarev.com/ghpvc/?username=brktrlw&color=green)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/berkay-şen-227435203" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="berkay-şen-227435203" height="30" width="40" /></a>
