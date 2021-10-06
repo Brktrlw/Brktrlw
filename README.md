@@ -23,7 +23,7 @@
 </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=brktrlw&theme=onedark)](https://github.com/brktrlw/github-profile-trophy)
-
+![](https://komarev.com/ghpvc/?username=brktrlw&color=green)
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=brktrlw&langs_count=5&theme=tokyonight)]()
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=brktrlw&count_private=true&theme=tokyonight&showicons=true)]()
