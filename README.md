@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Berkay</h1>
-<h3 align="center">A back-end developer from Turkey</h3>
+<h3 align="center">A Cyber Security Analyst from Turkey</h3>
 
 - 🔭 I’m currently working on [E Trade System with Python Flask](https://github.com/Brktrlw/E-Trade-System-With-Python-Flask)
 
@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on [Social Media System with Python Flask](https://github.com/Brktrlw/Social-Media-With-Python-Flask)
 
-- 👨‍💻 All of my projects are available at [http://www.berkay.rf.gd](http://www.berkay.rf.gd)
+- 👨‍💻 All of my articles are available at [https://brktrl.medium.com/](https://brktrl.medium.com/)
 
 - 📫 How to reach me **brktrl@protonmail.ch**
 
