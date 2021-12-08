@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Berkay</h1>
-<h3 align="center">A Cyber Security Analyst from Turkey</h3>
+<h3 align="center">A Cyber Security Analyst and Back end Developer from Turkey</h3>
 
 - 🔭 I’m currently working on [E Trade System with Python Flask](https://github.com/Brktrlw/E-Trade-System-With-Python-Flask)
 
