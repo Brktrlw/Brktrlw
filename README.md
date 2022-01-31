@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [https://github.com/Brktrlw](https://github.com/Brktrlw)
 
-- 💬 Ask me about **Python,flask,Django,HTML,CSS,JAVA,ASP.NET MVC,C#,Cyber Security,Kali Linux,Pentesting etc.**
+- 💬 Ask me about **Python,Flask,Django,Rest Framework,HTML,CSS,JAVA,C#,Cyber Security,Kali Linux,Pentesting etc.**
 <br>
 
 ![](https://komarev.com/ghpvc/?username=brktrlw&color=green)
