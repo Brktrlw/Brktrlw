@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Berkay</h1>
 <h3 align="center">A Cyber Security Analyst and Back end Developer from Turkey</h3>
 
-- 🔭 I’m currently working on [Blog website with DJANGO REST FRAMEWORK](https://github.com/Brktrlw/django-rest-framework-blog)
- 
 - 🔭 I’m currently working on [E-Trade System with Django](https://github.com/Brktrlw/Django-Etrade-System)
+
+- 🔭 I’m currently working on [Blog website with DJANGO REST FRAMEWORK](https://github.com/Brktrlw/django-rest-framework-blog)
 
 - 🌱 I’m currently learning **Python flask,Django,Cyber Security,Kali Linux,Pentesting etc.**
 
