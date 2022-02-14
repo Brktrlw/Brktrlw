@@ -3,19 +3,17 @@
 
 - 🔭 I’m currently working on [Istagram Clone with Django RestAPI and React Native](https://github.com/Brktrlw/Instagram-Clone-Django-and-React)
 
-- 🔭 I’m currently working on [Blog website with DJANGO REST FRAMEWORK](https://github.com/Brktrlw/django-rest-framework-blog)
-
-- 🌱 I’m currently learning **Python flask,Django,Cyber Security,Kali Linux,Pentesting etc.**
-
-- 👯 I’m looking to collaborate on [Social Media System with Python Flask](https://github.com/Brktrlw/Social-Media-With-Python-Flask)
+- 🌱 I’m currently learning **Python Django RestAPI (Rest Framework) , Django , Cyber Security , Kali Linux ,Pentesting etc.**
 
 - 👨‍💻 All of my articles are available at [https://brktrl.medium.com/](https://brktrl.medium.com/)
+
+- 🟣 My linked.in account [https://www.linkedin.com/in/berkay-şen/](https://www.linkedin.com/in/berkay-şen/)
 
 - 📫 How to reach me **brktrl@protonmail.ch**
 
 - 📄 Know about my experiences [https://github.com/Brktrlw](https://github.com/Brktrlw)
 
-- 💬 Ask me about **Python,Flask,Django,Rest Framework,HTML,CSS,JAVA,C#,Cyber Security,Kali Linux,Pentesting etc.**
+- 💬 Ask me about **Python,Django,Rest Framework,HTML,CSS,JAVA,C#,Cyber Security,Kali Linux,Pentesting etc.**
 <br>
 
 ![](https://komarev.com/ghpvc/?username=brktrlw&color=green)
