@@ -60,6 +60,7 @@ me.say_hi()
 
 ## 🗂️ Highlight Projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Brktrlw&repo=Instagram-Clone-Django-and-React)](https://github.com/Brktrlw/Instagram-Clone-Django-and-React)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Brktrlw&repo=Django-Etrade-System)]https://github.com/Brktrlw/Django-Etrade-System)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Brktrlw&repo=Django-Etrade-System)](https://github.com/Brktrlw/Django-Etrade-System)
 
 
