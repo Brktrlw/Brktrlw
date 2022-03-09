@@ -18,6 +18,8 @@
 - 💬 Ask me about **Python,Django,Rest Framework,HTML,CSS,JAVA,C#,Cyber Security,Kali Linux,Pentesting etc.**
 <br>
 
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=brktrlw&bg_color=0c0d1d&color=ffffff&line=85caff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ```python
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
@@ -34,10 +36,6 @@ class SoftwareDeveloper:
 me = SoftwareDeveloper()
 me.say_hi()
 ```
-
-
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=brktrlw&bg_color=0c0d1d&color=ffffff&line=85caff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 
 ![](https://komarev.com/ghpvc/?username=brktrlw&color=green)
 
