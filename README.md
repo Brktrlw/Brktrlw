@@ -3,7 +3,7 @@
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-- 🔭 I’m currently working on [Istagram Clone with Django RestAPI and React Native](https://github.com/Brktrlw/Instagram-Clone-Django-and-React)
+- 🔭 I’m currently working on [Django E Trade System](https://github.com/Brktrlw/Django-E-Trade-System)
 
 - 🌱 I’m currently learning **Python Django RestAPI (Rest Framework) , Django , Cyber Security , Kali Linux ,Pentesting etc.**
 
