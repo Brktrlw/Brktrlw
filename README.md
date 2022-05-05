@@ -3,11 +3,9 @@
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-- 🔭 I’m currently working on [Django E Trade System](https://github.com/Brktrlw/Django-E-Trade-System)
-
 - 🌱 I’m currently learning **Python Django RestAPI (Rest Framework) , Django , Cyber Security , Kali Linux ,Pentesting etc.**
 
-- 👨‍💻 All of my articles are available at [https://brktrl.medium.com/](https://brktrl.medium.com/)
+- 👨‍💻 All of my articles are available at [http://berkaysen.me/articles](http://berkaysen.me/articles)
 
 - 🟣 My linked.in account [https://www.linkedin.com/in/berkay-şen/](https://www.linkedin.com/in/berkay-şen/)
 
