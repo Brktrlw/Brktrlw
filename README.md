@@ -1,9 +1,13 @@
 <h1 align="center">Hi 👋, I'm Berkay</h1>
 <h3 align="center">A Cyber Security Analyst and Back end Developer from Turkey</h3>
-
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-
-- 🌱 I’m currently learning **Python Django RestAPI (Rest Framework) , Django , Cyber Security , Kali Linux ,Pentesting etc.**
+<table cellspacing="0" cellpadding="0" style="border: none;">
+    <tr>
+        <th>
+            <img align='left' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230"></th>
+<th>
+    <br>
+    
+- 🌱 I’m currently learning*Python Django ,RestAPI , Cyber Security , Kali Linux ,Pentesting etc.
 
 - 👨‍💻 All of my articles are available at [http://berkaysen.me/articles](http://berkaysen.me/articles)
 
@@ -14,6 +18,9 @@
 - 📄 Know about my experiences [https://github.com/Brktrlw](https://github.com/Brktrlw)
 
 - 💬 Ask me about **Python,Django,Rest Framework,HTML,CSS,JAVA,C#,Cyber Security,Kali Linux,Pentesting etc.**
+        </th>
+    </tr>
+</table>
 <br>
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=brktrlw&bg_color=0c0d1d&color=ffffff&line=85caff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
@@ -46,10 +53,18 @@ me.say_hi()
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=brktrlw&theme=onedark)](https://github.com/brktrlw/github-profile-trophy)
 
-
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=brktrlw&langs_count=5&theme=tokyonight)]()
-
+<table>
+    <tr>
+        <th>
+            
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=brktrlw&langs_count=5&theme=tokyonight)]()      
+        </th>
+    <th>
+    
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=brktrlw&count_private=true&theme=tokyonight&showicons=true)]()
+    </th>     
+ </tr>
+</table>
 
 
 <h3 align="left">Languages and Tools:</h3>
