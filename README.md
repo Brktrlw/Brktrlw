@@ -1,13 +1,15 @@
 <h1 align="center">Hi 👋, I'm Berkay</h1>
-<h3 align="center">A Cyber Security Analyst and Back end Developer from Turkey</h3>
+<h3 align="center">A Back end Developer from Turkey</h3>
+<h2 align="center">You can find all the information and articles about me on my <a href='http://berkaysen.me' target='_blank'>Website</a></h2>
+
 <table cellspacing="0" cellpadding="0" style="border: none;">
     <tr>
         <th>
-            <img align='left' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230"></th>
+            <img align='left' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="290"></th>
 <th>
     <br>
     
-- 🌱 I’m currently learning*Python Django ,RestAPI , Cyber Security , Kali Linux ,Pentesting etc.
+- 🌱 I’m currently learning Python Django ,RestAPI , Cyber Security , Kali Linux ,Pentesting etc.
 
 - 👨‍💻 All of my articles are available at [http://berkaysen.me/articles](http://berkaysen.me/articles)
 
