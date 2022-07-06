@@ -11,7 +11,7 @@
     
 - 🌱 I’m currently learning Python Django ,RestAPI , Cyber Security , Kali Linux ,Pentesting etc.
 
-- 👨‍💻 All of my articles are available at [http://berkaysen.me/articles](http://berkaysen.me/articles)
+- 👨‍💻 All of my articles are available at [http://berkaysen.me/en/articles](http://berkaysen.me/en/articles)
 
 - 🟣 My linked.in account [https://www.linkedin.com/in/berkay-şen/](https://www.linkedin.com/in/berkay-şen/)
 
