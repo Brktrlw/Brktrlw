@@ -25,7 +25,7 @@
 </table>
 <br>
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=brktrlw&bg_color=0c0d1d&color=ffffff&line=85caff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=brktrlw&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ```python
 #!/usr/bin/python
