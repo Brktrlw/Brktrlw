@@ -55,7 +55,7 @@ me.say_hi()
 # 📊 GitHub Stats:
 | GitHub Stats | GitHub Streak Stats | Top Languages |
 | ---------------------- | ---------------------------- | ------------------------ |
-| ![](https://github-readme-stats.vercel.app/api?username=brktrlw&theme=dark&hide_border=false&include_all_commits=true&count_private=true) | ![](https://github-readme-streak-stats.herokuapp.com/?user=brktrlw&theme=dark&hide_border=false) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=brktrlw&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) |
+| ![](https://github-readme-stats.vercel.app/api?username=brktrlw&theme=dark&hide_rank=true&hide_border=false&include_all_commits=true&count_private=true) | ![](https://streak-stats.demolab.com?user=brktrlw&locale=en&mode=weekly&theme=radical&hide_border=false&border_radius=5&date_format=M%20j[,%20Y]&order=3) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=brktrlw&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) |
 
 
 ## 🗂️ Highlight Projects
@@ -68,6 +68,7 @@ me.say_hi()
     <img width="450" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Brktrlw&repo=Django-E-Trade-System"/>
 </a>
 </p>
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/m.rktrl) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/berkay-%C5%9Fen) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@berkaysen7198) 
