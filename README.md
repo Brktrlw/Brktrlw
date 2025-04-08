@@ -60,8 +60,8 @@ me.say_hi()
 
 ## 🗂️ Highlight Projects
 <p align="center">
-<a href="https://github.com/Brktrlw/Instagram-Clone-Django-and-React" target="_blank">
-    <img width="450" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Brktrlw&repo=Instagram-Clone-Django-and-React"/>
+<a href="[https://github.com/Brktrlw/Instagram-Clone-Django-and-React](https://github.com/Brktrlw/django-admin-collaborator)" target="_blank">
+    <img width="450" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Brktrlw&repo=django-admin-collaborator"/>
 </a>
     
 <a href="https://github.com/Brktrlw/Django-E-Trade-System" target="_blank">
